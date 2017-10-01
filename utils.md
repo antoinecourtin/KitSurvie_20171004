@@ -1,9 +1,13 @@
 ## Atelier Kit de survie - 4 octobre 2017
 ### Trucs et astuces utiles pour suivre les ateliers
 
-##### Pour wikidata
+##### Pour Palladio
+* URL Tiles http://mapwarper.net/maps/tile/15297/{z}/{x}/{y}.png
 * URL du SPARLEndpoint de Wikidata pour utiliser Palladio
 https://query.wikidata.org/bigdata/namespace/wdq/sparql
+
+
+##### Pour wikidata
 * Exemple de requête SPARQL pour Wikidata
 https://gist.github.com/antoinecourtin/39b313d4b0cdaa1df3b6f2a3ddbfc3a5
 https://gist.github.com/antoinecourtin/149401410f486372ffb1958ead9f0264
