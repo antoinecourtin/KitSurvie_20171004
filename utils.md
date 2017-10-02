@@ -38,4 +38,11 @@ https://github.com/sparkica/refine-stats
 * Template pour croiser 2 jeux de données = cell.cross("My Address Book", "friend")[0].cells["address"].value
 => cell.cross("nomduprojet", "nomColonneeCléIntermédiaire")[0].cells["nomColonneArécupérer"].value
 
-##### Lien vers quelques ressources
+##### Lien vers quelques ressources complémentaire
+* TUTO : “Reconcilier” une liste de nom d’architectes avec Wikidata en utilisant OpenRefine : https://medium.com/@seeksanusername/reconcilier-une-liste-darchitecte-avec-wikidata-en-utilisant-openrefine-16819fbb2903
+* TUTO : Tableau périodique (ou pas) des outils/ressources pour les humanités numériques :
+https://medium.com/@seeksanusername/tableau-p%C3%A9riodique-des-outils-ressources-pour-les-humanit%C3%A9s-num%C3%A9riques-43da3f5ff9ff
+* TUTO : Exploiter/visualiser/explorer un corpus issue de l’OAI-PMH grâce au duo OpenRefine/Palladio
+https://medium.com/@seeksanusername/exploiter-visualiser-explorer-un-corpus-issue-de-loai-pmh-gr%C3%A2ce-au-couple-openrefine-palladio-1241323cf626
+* Exploiter des cartes anciennes numérisées - Trucs et astuces (avec du Mapwarper, Palladio, umaps)
+https://medium.com/@seeksanusername/exploiter-des-cartes-anciennes-num%C3%A9ris%C3%A9es-99d4ffc7788a
