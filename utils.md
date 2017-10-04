@@ -3,8 +3,8 @@
 
 ##### Pour structurer la données
 * Regex : https://help.libreoffice.org/Common/List_of_Regular_Expressions/fr
-* Extraire en col. E la première date inscrite en col. C... Utiliser les fonctions CHERCHE() + regex et STXT()
- * =STXT(C2;CHERCHE("[0-9]{4}";C2);4) ou =STXT(C2;CHERCHE("[[:digit:]]{4}";C2);4)
+* Extraire en col. E la première date inscrite en col. C... Utiliser les fonctions CHERCHE() + regex et STXT() à savoir :
+=STXT(C2;CHERCHE("[0-9]{4}";C2);4) ou =STXT(C2;CHERCHE("[[:digit:]]{4}";C2);4)
 
 
 
